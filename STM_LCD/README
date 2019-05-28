@@ -1,0 +1,11 @@
+How to use the LCD Library
+==========================
+
+- Launch STM32 Cube IDE
+- Create a new STM32 Project as usual and name it STM_LCD
+- Close STM32 Cube IDE
+- Replace the header and source files with the ones provided here
+  (in the directories provided)
+- Replace STM_LCD.ioc with the version found here
+- Reopen STM32 Cube IDE and run a debug build
+- If all goes well, you're ready to use it!
